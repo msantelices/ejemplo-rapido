@@ -20,7 +20,7 @@ watch(input, ()=> {
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
-  <p>Hola</p>
+  <p>Hola Mundo</p>
   <input type="text" v-model="inputValue">
   <h3>{{ inputFormat }}</h3>
 </template>
